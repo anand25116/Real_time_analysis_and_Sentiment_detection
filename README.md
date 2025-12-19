@@ -2,9 +2,9 @@
 
 **Authors:**
 
-* **Anand Nareshkumar Patel**, Department of Computer Science, Rutgers University — *[ap3085@scarletmail.rutgers.edu](mailto:ap3085@scarletmail.rutgers.edu)*
-* **Anish Vishnu Shirodkar**, Department of Computer Science, Rutgers University — *[sa2792@scarletmail.rutgers.edu](mailto:sa2792@scarletmail.rutgers.edu)*
-* **Santanu Agarwal**, Department of Computer Science, Rutgers University — *[avs181@scarletmail.rutgers.edu](mailto:avs181@scarletmail.rutgers.edu)*
+* **Anand Nareshkumar Patel**, Department of Computer Science, Rutgers University
+* **Anish Vishnu Shirodkar**, Department of Computer Science, Rutgers University
+* **Santanu Agarwal**, Department of Computer Science, Rutgers University 
 
 📄 **Paper (NeurIPS-style write-up):** *Included in repository*
 🎥 **Video Demo:** [https://drive.google.com/drive/folders/1pZVumiUZ8kDg64_L9Nos3egtc8w0X0O4](https://drive.google.com/drive/folders/1pZVumiUZ8kDg64_L9Nos3egtc8w0X0O4)
