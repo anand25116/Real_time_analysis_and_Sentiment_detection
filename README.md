@@ -8,8 +8,6 @@
 
 📄 **Paper (NeurIPS-style write-up):** *Included in repository*
 🎥 **Video Demo:** [https://drive.google.com/drive/folders/1pZVumiUZ8kDg64_L9Nos3egtc8w0X0O4](https://drive.google.com/drive/folders/1pZVumiUZ8kDg64_L9Nos3egtc8w0X0O4)
-💻 **Code Repository:** [https://github.com/anand25116/Real_time_analysis_and_Sentiment_detection](https://github.com/anand25116/Real_time_analysis_and_Sentiment_detection)
-
 ---
 
 ## 📌 Overview
